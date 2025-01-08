@@ -1,0 +1,1 @@
+# Get timetable information (groupware)
